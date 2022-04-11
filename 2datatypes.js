@@ -1,5 +1,5 @@
-var a = true;
-var b = true
+var c = true;
+var b = false
 a+b
 2
 true + false
